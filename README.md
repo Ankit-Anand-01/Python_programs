@@ -4,9 +4,7 @@
 
 * contribute python programs
 
-# Python_programs
-
-how to make pull ..
+# how to make pull ..
 
 @ make star
 @ fork the repo.
