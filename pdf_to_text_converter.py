@@ -1,5 +1,5 @@
 //  AUTHOR: RUDRANSH SRIVASTAVA
-//  Python3 Concept: PALINDROME STRING OR NOT
+//  Python3 Concept: pdf to text
 //  GITHUB: https://github.com/RUDRANSH-hub
 
 '''TO FIND OUT WEATHER STRING IS PALINDROME OR NOT'''
